@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 function apppp(){
     
 }
 
+=======
+>>>>>>> f8c9cec (first)
 const express = require('express');
 const helmet = require('helmet');
 const xss = require('xss-clean');
