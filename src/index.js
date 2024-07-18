@@ -2,6 +2,9 @@ const mongoose = require('mongoose');
 const app = require('./app');
 const config = require('./config/config');
 const logger = require('./config/logger');
+//first change
+// second change
+// yash ois my friend but i don't have time to talk with him wi=hich is bad
 
 let server;
 mongoose.connect(config.mongoose.url, config.mongoose.options).then(() => {
